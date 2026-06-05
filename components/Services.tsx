@@ -33,7 +33,7 @@ const Services: React.FC = () => {
     <section className="py-12 sm:py-20 scroll-reveal">
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12">
         <div className="lg:col-span-4">
-          <h2 className="text-4xl sm:text-6xl lg:text-7xl font-black leading-[0.95] tracking-tighter lg:sticky lg:top-32 text-[#1a1a1a]">
+          <h2 className="text-4xl sm:text-6xl lg:text-7xl font-black leading-[0.95] tracking-tighter lg:sticky lg:top-32 text-[#fdfaf5]">
             How Can I Assist You?
           </h2>
         </div>
